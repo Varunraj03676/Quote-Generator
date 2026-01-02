@@ -72,7 +72,7 @@ This is a beginner-level project, but suggestions and improvements are always we
 
 **Varun Raj**
 GitHub: [https://github.com/Varunraj03676](https://github.com/Varunraj03676)
-LinkedIn: *(Add your LinkedIn profile link here)*
+
 
 ---
 
